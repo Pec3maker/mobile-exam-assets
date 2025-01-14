@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dish_ids">
+        <item>52777</item>
+        <item>52827</item>
+        <item>52864</item>
+        <item>52865</item>
+        <item>52876</item>
+        <item>52880</item>
+        <item>52900</item>
+        <item>52927</item>
+        <item>52947</item>
+        <item>52968</item>
+        <item>52991</item>
+        <item>53006</item>
+        <item>53029</item>
+        <item>53038</item>
+        <item>53047</item>
+        <item>53048</item>
+        <item>53059</item>
+        <item>52768</item>
+        <item>52893</item>
+        <item>53049</item>
+        <item>53050</item>
+        <item>52767</item>
+        <item>52792</item>
+        <item>52803</item>
+        <item>52807</item>
+        <item>52812</item>
+        <item>52824</item>
+        <item>52826</item>
+        <item>52834</item>
+        <item>52842</item>
+        <item>52848</item>
+        <item>52855</item>
+        <item>52873</item>
+        <item>52765</item>
+        <item>52776</item>
+        <item>52779</item>
+        <item>52788</item>
+        <item>52795</item>
+        <item>52796</item>
+        <item>52818</item>
+        <item>52819</item>
+        <item>52830</item>
+        <item>52831</item>
+        <item>52832</item>
+        <item>52839</item>
+        <item>52840</item>
+        <item>52841</item>
+        <item>52846</item>
+        <item>52850</item>
+        <item>52853</item>
+        <item>52856</item>
+        <item>52860</item>
+        <item>52870</item>
+        <item>52875</item>
+        <item>52879</item>
+        <item>52897</item>
+        <item>52898</item>
+        <item>52905</item>
+        <item>52910</item>
+        <item>52920</item>
+        <item>52923</item>
+        <item>52934</item>
+        <item>52939</item>
+        <item>52956</item>
+        <item>52966</item>
+        <item>52969</item>
+        <item>52976</item>
+        <item>52977</item>
+        <item>52988</item>
+        <item>52989</item>
+        <item>52990</item>
+        <item>52998</item>
+        <item>52999</item>
+        <item>53011</item>
+        <item>53016</item>
+        <item>53037</item>
+        <item>53055</item>
+        <item>53056</item>
+        <item>53058</item>
+        <item>53063</item>
+        <item>53072</item>
+        <item>53077</item>
+        <item>52874</item>
+        <item>52878</item>
+        <item>52891</item>
+        <item>52894</item>
+        <item>52904</item>
+        <item>52913</item>
+        <item>52914</item>
+        <item>52928</item>
+        <item>52940</item>
+        <item>52952</item>
+        <item>52959</item>
+        <item>52961</item>
+        <item>52965</item>
+        <item>52979</item>
+        <item>52995</item>
+        <item>52997</item>
+        <item>53013</item>
+        <item>53018</item>
+        <item>53036</item>
+        <item>53053</item>
+        <item>53060</item>
+        <item>53068</item>
+        <item>53069</item>
+        <item>53070</item>
+        <item>53071</item>
+        <item>53076</item>
+        <item>53078</item>
+        <item>53080</item>
+    </string-array>
+
+    <string-array name="dish_names">
+        <item>Средиземноморский салат с пастой</item>
+        <item>Массаман карри с говядиной</item>
+        <item>Ротоло с грибами и каштанами</item>
+        <item>Матар Панир</item>
+        <item>Пирог с фаршем</item>
+        <item>Шотландский пирог</item>
+        <item>Мадейра кекс</item>
+        <item>Монреальское копченое мясо</item>
+        <item>Ма По Тофу</item>
+        <item>Мбузи Чома (Жареная коза)</item>
+        <item>Пирожки с фаршем</item>
+        <item>Мусака</item>
+        <item>Молухия</item>
+        <item>Картофельное пюре с горчицей</item>
+        <item>Марокканский суп из моркови</item>
+        <item>Ми Горенг Мамак</item>
+        <item>Грибной суп с гречкой</item>
+        <item>Яблочный тарт с франжипаном</item>
+        <item>Яблочно-ежевичный крамбл</item>
+        <item>Апам Балик</item>
+        <item>Аям Перчик</item>
+        <item>Тарт Бейквелл</item>
+        <item>Пудинг из хлеба и масла</item>
+        <item>Говядина Веллингтон</item>
+        <item>Баинган Бхарта</item>
+        <item>Тушеная говяжья грудинка</item>
+        <item>Воскресный ростбиф</item>
+        <item>Тушеная говядина с чили</item>
+        <item>Говядина по-строгановски</item>
+        <item>Суп из брокколи и сыра Стилтон</item>
+        <item>Сосиски с фасолью</item>
+        <item>Банановые блинчики</item>
+        <item>Тушеная говядина с клецками</item>
+        <item>Куриная энчилада-запеканка</item>
+        <item>Шоколадный гато</item>
+        <item>Тарт с творожным сыром</item>
+        <item>Рождественский пудинг-флэпджек</item>
+        <item>Куриное ханди</item>
+        <item>Курица Альфредо с овощами</item>
+        <item>Куриные фахитас с макаронами и сыром</item>
+        <item>Тако с рыбой в каджунском стиле</item>
+        <item>Тако с курицей из мультиварки</item>
+        <item>Курица карааге</item>
+        <item>Кок-о-вен</item>
+        <item>Лингвини с креветками и чили</item>
+        <item>Суп из моллюсков</item>
+        <item>Крем-суп из помидоров</item>
+        <item>Курица и грибы в горшочке</item>
+        <item>Курица с кускусом</item>
+        <item>Шоколадный мусс с авокадо</item>
+        <item>Пирог с шоколадом и орехами пекан</item>
+        <item>Шоколадные брауни с малиной</item>
+        <item>Фахитас с нутом</item>
+        <item>Пирог с курицей, ветчиной и луком-пореем</item>
+        <item>Курица парментье</item>
+        <item>Морковный торт</item>
+        <item>Челси-булочки</item>
+        <item>Шоколадный суфле</item>
+        <item>Яблочные тарты из Шинона</item>
+        <item>Курица Маре́нго</item>
+        <item>Канадские масляные тарты</item>
+        <item>Курица баскез</item>
+        <item>Каллалу по-ямайски</item>
+        <item>Куриный конджи</item>
+        <item>Шоколадно-карамельные хрустяшки</item>
+        <item>Чакчука</item>
+        <item>Печенье с кешью</item>
+        <item>Чорба</item>
+        <item>Классический рождественский пудинг</item>
+        <item>Рождественский пудинг-трифл</item>
+        <item>Рождественский торт</item>
+        <item>Солонина с капустой</item>
+        <item>Хрустящие сосиски с зеленью</item>
+        <item>Греческий салат с курицей и киноа</item>
+        <item>Сэндвич Чик-фил-А</item>
+        <item>Свинина, тушеная с сидром</item>
+        <item>Чевапи</item>
+        <item>Хорватское рагу из баранины</item>
+        <item>Хорватский бобовый суп</item>
+        <item>Чивито уругвайский</item>
+        <item>Хрустящие баклажаны</item>
+        <item>Щи (капустный суп)</item>
+        <item>Пирог с говядиной и горчицей</item>
+        <item>Пирог с говядиной и устрицами</item>
+        <item>Десерт из ежевики</item>
+        <item>Баттенбергский торт</item>
+        <item>Говядина по-бургундски</item>
+        <item>Бри в тесте</item>
+        <item>Картофель по-буланжерски</item>
+        <item>Бобровые хвосты</item>
+        <item>Тушеная курица по-ямайски</item>
+        <item>Говядина Ло Мейн</item>
+        <item>Запеченный лосось с фенхелем</item>
+        <item>Будиньо ди Рикотта</item>
+        <item>Завтрак из картофеля</item>
+        <item>Биттерболлен</item>
+        <item>Слоуппи Джо с BBQ</item>
+        <item>Бо Бань Ми с говядиной</item>
+        <item>Биг Мак</item>
+        <item>Бигос</item>
+        <item>Завтрак Бокси</item>
+        <item>Говядина Ренданг</item>
+        <item>Бурек</item>
+        <item>Говядина Мечадо</item>
+        <item>Бистек</item>
+        <item>Говядина Кальдерета</item>
+        <item>Говядина Асадо</item>
+        <item>Омлет с хлебом</item>
+        <item>Борщ</item>
+        <item>Блины</item>
+    </string-array>
+
+    <string-array name="dish_categories">
+        <item>Морепродукты</item>
+        <item>Говядина</item>
+        <item>Вегетарианское</item>
+        <item>Вегетарианское</item>
+        <item>Говядина</item>
+        <item>Баранина</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Козлятина</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Гарнир</item>
+        <item>Вегетарианское</item>
+        <item>Морепродукты</item>
+        <item>Гарнир</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Вегетарианское</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Закуска</item>
+        <item>Разное</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Закуска</item>
+        <item>Десерт</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Морепродукты</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Паста</item>
+        <item>Закуска</item>
+        <item>Закуска</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Вегетарианское</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Курица</item>
+        <item>Разное</item>
+        <item>Курица</item>
+        <item>Десерт</item>
+        <item>Разное</item>
+        <item>Десерт</item>
+        <item>Гарнир</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Свинина</item>
+        <item>Курица</item>
+        <item>Курица</item>
+        <item>Свинина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Вегетарианское</item>
+        <item>Вегетарианское</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Десерт</item>
+        <item>Десерт</item>
+        <item>Говядина</item>
+        <item>Гарнир</item>
+        <item>Гарнир</item>
+        <item>Десерт</item>
+        <item>Курица</item>
+        <item>Говядина</item>
+        <item>Морепродукты</item>
+        <item>Десерт</item>
+        <item>Завтрак</item>
+        <item>Говядина</item>
+        <item>Свинина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Свинина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Говядина</item>
+        <item>Завтрак</item>
+        <item>Вегетарианское</item>
+        <item>Гарнир</item>
+    </string-array>
+
+    <string-array name="dish_instructions">
+        <item>Доведите воду до кипения, добавьте пасту и варите 10 минут. Нарежьте помидоры, оливки и базилик. Смешайте помидоры с базиликом и оливковым маслом. Добавьте пасту, оливки, моцареллу и тунец. Охладите и подавайте.</item>
+        <item>Обжарьте арахис, затем добавьте кокосовое молоко и пасту карри. Добавьте говядину, картофель, лук и специи. Тушите 2 часа в духовке. Подавайте с рисом.</item>
+        <item>Замочите грибы, обжарьте лук, чеснок и каштаны. Приготовьте соус из вина и грибного бульона. Заверните начинку в листы лазаньи и запекайте 20 минут.</item>
+        <item>Обжарьте панир, затем добавьте специи и помидоры. Тушите с горошком и подавайте с нааном или рисом.</item>
+        <item>Обжарьте фарш с луком, добавьте томатную пасту и грибы. Запекайте под слоем теста 20-25 минут.</item>
+        <item>Обжарьте лук, чеснок и специи. Смешайте с фаршем и запекайте в тесте 1,5 часа.</item>
+        <item>Смешайте масло, сахар и яйца. Добавьте муку и цедру лимона. Выпекайте 30-40 минут.</item>
+        <item>Замаринуйте говядину в специях, затем коптите 6 часов. Подавайте с горчицей.</item>
+        <item>Обжарьте фарш, добавьте тофу и соус. Тушите 6-8 минут. Подавайте с рисом.</item>
+        <item>Жарьте мясо 50 минут. Подавайте с рисом и салатом.</item>
+        <item>Смешайте тесто, начините фаршем и выпекайте 20 минут. Подавайте с сахарной пудрой.</item>
+        <item>Обжарьте фарш, добавьте баклажаны и запекайте под соусом из йогурта.</item>
+        <item>Тушите мясо с луком, добавьте молухия и чеснок. Подавайте с рисом.</item>
+        <item>Сварите картофель, добавьте молоко, масло и горчицу. Подавайте с зеленым луком.</item>
+        <item>Запеките морковь с луком и специями. Измельчите в блендере и подавайте с лимонным соком.</item>
+        <item>Обжарьте арахис, креветки и специи. Добавьте лапшу и яйцо. Подавайте с лаймом.</item>
+        <item>Обжарьте лук, грибы и чеснок. Добавьте гречку и варите до готовности. Подавайте с зеленью.</item>
+        <item>Разогрейте духовку до 200°C. Измельчите печенье и смешайте с маслом. Выложите в форму. Взбейте масло с сахаром, добавьте яйца, миндаль и экстракт. Нарежьте яблоки и выложите на основу. Запекайте 20-25 минут. Подавайте с мороженым.</item>
+        <item>Разогрейте духовку до 190°C. Смешайте муку, сахар и масло до крошки. Запеките крошку 15 минут. Приготовьте компот из яблок, ежевики и корицы. Соедините фрукты с крошкой и запекайте 5-10 минут. Подавайте с мороженым.</item>
+        <item>Смешайте молоко, масло и яйца. Добавьте муку, разрыхлитель и соль. Жарьте на сковороде до появления пузырьков. Добавьте начинку и сложите пополам. Подавайте теплым.</item>
+        <item>Смешайте ингредиенты для пасты и обжарьте 10 минут. Добавьте кокосовое молоко и специи. Замаринуйте курицу на ночь. Запекайте 35-45 минут при 220°C. Подавайте с рисом.</item>
+        <item>Смешайте муку и масло до крошки. Добавьте воду и замесите тесто. Раскатайте и выложите в форму. Запекайте 15 минут. Намажьте джемом, добавьте смесь из миндаля и масла. Посыпьте миндальными хлопьями. Запекайте 35 минут.</item>
+        <item>Намажьте хлеб маслом и нарежьте на треугольники. Выложите слоями в форму, добавляя изюм и корицу. Залейте смесью из молока, сливок и яиц. Запекайте 30-40 минут. Подавайте теплым.</item>
+        <item>Обжарьте грибы и смешайте с горчицей. Оберните говядину в ветчину и грибную смесь. Заверните в слоеное тесто. Запекайте 35 минут. Подавайте с соусом.</item>
+        <item>Запеките баклажан на огне до мягкости. Очистите и разомните. Обжарьте лук, чеснок и помидоры. Добавьте баклажан и специи. Подавайте с лепешками.</item>
+        <item>Обжарьте говядину до золотистой корочки. Добавьте лук, морковь и специи. Залейте бульоном и тушите 3 часа. Подавайте с пюре.</item>
+        <item>Запеките говядину и картофель в духовке. Приготовьте йоркширские пудинги. Подавайте с подливкой и овощами.</item>
+        <item>Обжарьте говядину и лук. Добавьте специи, томаты и бульон. Тушите 2 часа. Добавьте фасоль и готовьте еще час. Подавайте с рисом.</item>
+        <item>Обжарьте лук и грибы. Добавьте говядину и муку. Залейте сметаной и бульоном. Тушите до готовности. Подавайте с пастой.</item>
+        <item>Обжарьте лук и сельдерей. Добавьте картофель и бульон. Варите 15 минут. Добавьте брокколи и сыр. Подавайте с гренками.</item>
+        <item>Обжарьте сосиски. Добавьте томатный соус, фасоль и специи. Тушите 30 минут. Подавайте с хлебом.</item>
+        <item>Разомните банан, добавьте яйца и муку. Жарьте на сковороде. Подавайте с орехами и ягодами.</item>
+        <item>Обжарьте говядину и овощи. Добавьте бульон и тушите 2 часа. Приготовьте клецки и запеките их с тушенкой.</item>
+        <item>Приготовьте курицу в соусе энчилада, разберите на волокна, выложите слоями с тортильями, сыром и запеките.</item>
+        <item>Растопите шоколад, смешайте с маслом, сахаром, яйцами и мукой. Выпекайте до готовности.</item>
+        <item>Приготовьте основу, наполните смесью из творожного сыра, запеките и украсьте помидорами.</item>
+        <item>Растопите масло, сахар, сироп, смешайте с овсянкой и пудингом, запекайте до золотистого цвета.</item>
+        <item>Приготовьте курицу со специями, йогуртом и сливками, тушите до мягкости.</item>
+        <item>Приготовьте курицу, пасту и овощи, смешайте с соусом Альфредо и подавайте.</item>
+        <item>Приготовьте курицу, лук, перец, смешайте с макаронами и сыром, запеките.</item>
+        <item>Обваляйте рыбу в каджунских специях, обжарьте и подавайте в тортильях с начинкой.</item>
+        <item>Приготовьте курицу в мультиварке, разберите на волокна, наполните тако и запеките с сыром.</item>
+        <item>Замаринуйте курицу, обваляйте в картофельном крахмале и обжарьте до хрустящей корочки.</item>
+        <item>Обжарьте курицу, приготовьте с беконом, луком и красным вином, тушите до мягкости.</item>
+        <item>Приготовьте креветки с чесноком, чили и помидорами, смешайте с лингвини.</item>
+        <item>Приготовьте моллюски, бекон, лук, картофель и сливки в густой суп.</item>
+        <item>Приготовьте лук, морковь, помидоры, взбейте в блендере, добавьте сливки.</item>
+        <item>Приготовьте курицу, грибы и овощи в сливочном соусе, запеките с картофелем.</item>
+        <item>Приготовьте курицу со специями, смешайте с кускусом, абрикосами и нутом.</item>
+        <item>Смешайте авокадо, банан, какао и мед, охладите и подавайте.</item>
+        <item>Приготовьте тесто, наполните орехами пекан, шоколадом и сиропом, запеките.</item>
+        <item>Растопите шоколад, смешайте с яйцами, сахаром, мукой и малиной, запеките.</item>
+        <item>Запеките нут, подавайте с маринованным луком, авокадо и тортильями.</item>
+        <item>Приготовьте курицу, ветчину и лук-порей в сливочном соусе, запеките с тестом.</item>
+        <item>Приготовьте курицу с овощами, запеките с картофельным пюре до золотистого цвета.</item>
+        <item>Смешайте морковь, орехи, муку, яйца и сахар, запеките и украсьте кремом.</item>
+        <item>Приготовьте тесто, наполните сахаром и фруктами, сверните, нарежьте и запеките.</item>
+        <item>Растопите шоколад, смешайте с яичными желтками, добавьте белки, запеките.</item>
+        <item>Выложите тесто яблоками, сахаром, запеките и покройте желе из красного вина.</item>
+        <item>Приготовьте курицу с грибами, помидорами и оливками, тушите до мягкости.</item>
+        <item>Наполните тесто маслом, сахаром, яйцами и изюмом, запеките до готовности.</item>
+        <item>Приготовьте курицу с перцем, чоризо, рисом и помидорами, запеките до мягкости.</item>
+        <item>Приготовьте капусту каллалу с беконом и овощами, подавайте с плантейном.</item>
+        <item>Приготовьте рис с курицей, имбирем и бульоном, варите до густой консистенции.</item>
+        <item>Растопите шоколадные батончики, смешайте с рисовыми хлопьями, залейте шоколадом.</item>
+        <item>Приготовьте лук, перец, помидоры, разбейте яйца сверху, тушите до готовности.</item>
+        <item>Смешайте кешью, сахар, яичные желтки, сформируйте шарики, запекайте до золотистого цвета.</item>
+        <item>Приготовьте чечевицу, лук, морковь и специи, взбейте в густой суп.</item>
+        <item>Смешайте фрукты, орехи, муку, яйца и бренди, варите на пару несколько часов.</item>
+        <item>Слои рождественского пудинга, заварного крема, сливок и фруктов, охладите перед подачей.</item>
+        <item>Смешайте фрукты, орехи, муку, яйца и специи, запеките и украсьте.</item>
+        <item>Варите солонину с картофелем, морковью и капустой, подавайте горячим.</item>
+        <item>Приготовьте сосиски, запеките капусту и капусту кале, подавайте вместе.</item>
+        <item>Приготовьте киноа, обжарьте курицу, смешайте с овощами, фетой и лимонной заправкой.</item>
+        <item>Замаринуйте курицу, обваляйте в муке, обжарьте и подавайте в булочках с солеными огурцами.</item>
+        <item>Приготовьте свинину с сидром, беконом и овощами, тушите до мягкости.</item>
+        <item>Смешайте говядину, свинину, специи, сформируйте колбаски, обжарьте на гриле.</item>
+        <item>Приготовьте баранину с овощами, травами и вином, запеките до мягкости.</item>
+        <item>Приготовьте бобы с овощами, чоризо и специи, тушите до густой консистенции.</item>
+        <item>Выложите говядину, ветчину, сыр, яйца и овощи на хлеб, подавайте горячим.</item>
+        <item>Обваляйте баклажаны в панировке, обжарьте до хрустящей корочки, подавайте горячими.</item>
+        <item>Приготовьте капусту, картофель и овощи в бульоне, тушите до мягкости.</item>
+        <item>Обжарьте говядину и лук. Добавьте горчицу и бульон. Заверните в тесто и запекайте 30 минут. Подавайте с зеленой фасолью.</item>
+        <item>Обжарьте говядину и лук. Добавьте устрицы и специи. Заверните в тесто и запекайте 30 минут. Подавайте с горчицей.</item>
+        <item>Приготовьте печенье из орехов и муки. Смешайте ежевику с сахаром. Взбейте сливки и йогурт. Соедините все слои. Подавайте охлажденным.</item>
+        <item>Приготовьте два вида теста: миндальное и розовое. Соберите торт, чередуя слои. Покройте марципаном. Подавайте с чаем.</item>
+        <item>Обжарьте говядину и овощи. Добавьте вино и бульон. Тушите 3 часа. Подавайте с пюре из сельдерея.</item>
+        <item>Приготовьте тесто из муки и масло. Заверните в него бри и запекайте 22 минуты. Подавайте теплым.</item>
+        <item>Обжарьте лук и тимьян. Выложите слоями картофель и лук. Залейте бульоном и запекайте 50 минут. Подавайте горячим.</item>
+        <item>Приготовьте тесто из муки, молока и масла. Обжарьте в масле до золотистой корочки. Посыпьте сахаром и корицей. Подавайте теплыми.</item>
+        <item>Замаринуйте курицу в специях. Обжарьте до золотистой корочки. Тушите с овощами и кокосовым молоком. Подавайте с рисом.</item>
+        <item>Замаринуйте говядину в соевом соусе. Обжарьте с овощами и лапшой. Добавьте соус и подавайте горячим.</item>
+        <item>Запеките фенхель и помидоры. Добавьте лосось и запекайте 15 минут. Подавайте с зеленью.</item>
+        <item>Смешайте рикотту, яйца и муку. Добавьте сахар и корицей. Запекайте 40 минут. Подавайте с сахарной пудрой.</item>
+        <item>Обжарьте картофель с беконом и луком. Добавьте яйца и подавайте с кленовым сиропом.</item>
+        <item>Приготовьте густой соус из говядины и специй. Охладите, сформируйте шарики. Обваляйте в муке, яйце и панировке. Обжарьте до золотистой корочки. Подавайте с горчицей.</item>
+        <item>Обжарьте свинину с луком и специями. Добавьте BBQ соус и тушите 10 минут. Подавайте в булочках с картофелем.</item>
+        <item>Приготовьте рис. Обжарьте говядину с овощами. Подавайте с маринованными овощами и соусом.</item>
+        <item>Приготовьте котлеты из говядины. Соберите бургер с сыром, салатом и соусом. Подавайте с картофелем фри.</item>
+        <item>Обжарьте свинину и колбасу. Добавьте капусту и специи. Тушите 3 часа. Подавайте с хлебом.</item>
+        <item>Приготовьте картофельные оладьи. Обжарьте бекон и яйца. Подавайте с помидорами.</item>
+        <item>Обжарьте говядину с специями. Добавьте кокосовое молоко и тушите 2 часа. Подавайте с рисом.</item>
+        <item>Обжарьте фарш с луком. Выложите слоями с тестом. Запекайте 30 минут. Подавайте горячим.</item>
+        <item>Замаринуйте говядину в соевом соусе. Обжарьте с овощами. Тушите с томатным соусом. Подавайте с рисом.</item>
+        <item>Замаринуйте говядину в соевом соусе. Обжарьте с луком. Подавайте с рисом.</item>
+        <item>Обжарьте говядину с овощами. Добавьте томатный соус и тушите до готовности. Подавайте с рисом.</item>
+        <item>Замаринуйте говядину в специях. Обжарьте с овощами. Тушите с томатным соусом. Подавайте с рисом.</item>
+        <item>Приготовьте омлет с хлебом. Подавайте горячим.</item>
+        <item>Нарежьте свеклу и картофель. Варите с овощами до готовности. Добавьте фасоль. Подавайте с укропом.</item>
+        <item>Приготовьте тесто из муки и молока. Жарьте на сковороде. Подавайте с маслом.</item>
+    </string-array>
+
+    <string-array name="dish_youtube_urls">
+        <item>https://www.youtube.com/watch?v=e52IL8zYmaE</item>
+        <item>https://www.youtube.com/watch?v=mVxgZSCU9_g</item>
+        <item>https://www.youtube.com/watch?v=GNN7_ZSJ5YE</item>
+        <item>https://www.youtube.com/watch?v=wlseYNqwLNs</item>
+        <item>https://www.youtube.com/watch?v=QY47h-uqq5g</item>
+        <item>https://www.youtube.com/watch?v=1nArqhRyszw</item>
+        <item>https://www.youtube.com/watch?v=-YDh4WEmK_E</item>
+        <item>https://www.youtube.com/watch?v=g5oCDoyxbBk</item>
+        <item>https://www.youtube.com/watch?v=IhwPQL9dFYc</item>
+        <item> </item>
+        <item>https://www.youtube.com/watch?v=PnXft7lQNJE</item>
+        <item>https://www.youtube.com/watch?v=8U_29i9Qp5U</item>
+        <item>https://www.youtube.com/watch?v=vWc5JzgAkIQ</item>
+        <item>https://www.youtube.com/watch?v=_iKllHSC978</item>
+        <item>https://www.youtube.com/watch?v=7tDWOpnIhok</item>
+        <item>https://www.youtube.com/watch?v=pOJEmDBgtSk</item>
+        <item>https://www.youtube.com/watch?v=M1ok7mG9-Qc</item>
+        <item>https://www.youtube.com/watch?v=rp8Slv4INLk</item>
+        <item>https://www.youtube.com/watch?v=4vhcOwVBDO4</item>
+        <item>https://www.youtube.com/watch?v=6R8ffRRJcrg</item>
+        <item>https://www.youtube.com/watch?v=9ytR28QK6I8</item>
+        <item>https://www.youtube.com/watch?v=1ahpSTf_Pvk</item>
+        <item>https://www.youtube.com/watch?v=Vz5W1-BmOE4</item>
+        <item>https://www.youtube.com/watch?v=FS8u1RBdf6I</item>
+        <item>https://www.youtube.com/watch?v=-84Zz2EP4h4</item>
+        <item>https://www.youtube.com/watch?v=gh48wM6bPWQ</item>
+        <item>https://www.youtube.com/watch?v=2l3-dBdNehY</item>
+        <item>https://www.youtube.com/watch?v=z4kSoJgsu6Y</item>
+        <item>https://www.youtube.com/watch?v=PQHgQX1Ss74</item>
+        <item>https://www.youtube.com/watch?v=_HgVLpmNxTY</item>
+        <item>https://www.youtube.com/watch?v=B0YX0yPX4Wo</item>
+        <item>https://www.youtube.com/watch?v=kSKtb2Sv-_U</item>
+        <item>https://www.youtube.com/watch?v=6NgheY-r5t0</item>
+        <item>https://www.youtube.com/watch?v=EtVkwVKLc_M</item>
+        <item>https://www.youtube.com/watch?v=dsJtgmAhFF4</item>
+        <item>https://www.youtube.com/watch?v=UhQPwO4uymo</item>
+        <item>https://www.youtube.com/watch?v=OaqvGvEiwzU</item>
+        <item>https://www.youtube.com/watch?v=IO0issT0Rmc</item>
+        <item>https://www.youtube.com/watch?v=qCIbq8HywpQ</item>
+        <item>https://www.youtube.com/watch?v=bwTSmLTZKNg</item>
+        <item>https://www.youtube.com/watch?v=N4EdUt0Ou48</item>
+        <item>https://www.youtube.com/watch?v=oqL0mLDBzS4</item>
+        <item>https://www.youtube.com/watch?v=XivddFddthc</item>
+        <item>https://www.youtube.com/watch?v=_MpSxSgS7f8</item>
+        <item>https://www.youtube.com/watch?v=SC17Mc70Db0</item>
+        <item>https://www.youtube.com/watch?v=fEN_fm6kX6k</item>
+        <item>https://www.youtube.com/watch?v=lBhwjjUiFk4</item>
+        <item>https://www.youtube.com/watch?v=bXKWu4GojNI</item>
+        <item>https://www.youtube.com/watch?v=GZQGy9oscVk</item>
+        <item>https://www.youtube.com/watch?v=wuZffe60q4M</item>
+        <item>https://www.youtube.com/watch?v=fDpoT0jvg4Y</item>
+        <item>https://www.youtube.com/watch?v=Pi89PqsAaAg</item>
+        <item>https://www.youtube.com/watch?v=LGY3V7EGpT0</item>
+        <item>https://www.youtube.com/watch?v=xrqrrv1511553350</item>
+        <item>https://www.youtube.com/watch?v=tiG-xlmeyjg</item>
+        <item>https://www.youtube.com/watch?v=asjZ7iTrGKA</item>
+        <item>https://www.youtube.com/watch?v=i_zemP3yBKw</item>
+        <item>https://www.youtube.com/watch?v=FWqfkUEWOTg</item>
+        <item>https://www.youtube.com/watch?v=5dAW9HQgtCk</item>
+        <item>https://www.youtube.com/watch?v=U33HYUr-0Fw</item>
+        <item>https://www.youtube.com/watch?v=WUpaOGghOdo</item>
+        <item>https://www.youtube.com/watch?v=emfm6TwsVhg</item>
+        <item>https://www.youtube.com/watch?v=bCr3GasJWwE</item>
+        <item>https://www.youtube.com/watch?v=kqEfk801E94</item>
+        <item>https://www.youtube.com/watch?v=qsk_At_gjv0</item>
+        <item>https://www.youtube.com/watch?v=EHKNu93MSx4</item>
+        <item>https://www.youtube.com/watch?v=IqXEZUk4hWI</item>
+        <item>https://www.youtube.com/watch?v=VVnZd8A84z4</item>
+        <item>https://www.youtube.com/watch?v=Pb_lJxL1vtk</item>
+        <item>https://www.youtube.com/watch?v=jRfyNQs5qhU</item>
+        <item>https://www.youtube.com/watch?v=34yeL8TstO0</item>
+        <item> </item>
+        <item> </item>
+        <item>https://www.youtube.com/watch?v=akcrkXYr61M</item>
+        <item>https://www.youtube.com/watch?v=1WDesu7bUDM</item>
+        <item>https://www.youtube.com/watch?v=ftn_4mc-65o</item>
+        <item>https://www.youtube.com/watch?v=_MpSxSgS7f8</item>
+        <item>https://www.youtube.com/watch?v=K0ipnz4fwJI</item>
+        <item>https://www.youtube.com/watch?v=mrjnQal3S1A</item>
+        <item>https://www.youtube.com/watch?v=0PXbbL1QdaA</item>
+        <item>https://www.youtube.com/watch?v=4mINk5d2hto</item>
+        <item>https://www.youtube.com/watch?v=lTjlbqGc_Y8</item>
+        <item>https://www.youtube.com/watch?v=nMyBC9staMU</item>
+        <item>https://www.youtube.com/watch?v=ONX74yP6JnI</item>
+        <item>https://www.youtube.com/watch?v=kniRGjDLFrQ</item>
+        <item>https://www.youtube.com/watch?v=aB41Q7kDZQ0</item>
+        <item>https://www.youtube.com/watch?v=SQnr4Z-7rok</item>
+        <item>https://www.youtube.com/watch?v=FzNPPD8lbWg</item>
+        <item>https://www.youtube.com/watch?v=gcXPruv1Mjg</item>
+        <item>https://www.youtube.com/watch?v=2G07UOqU2e8</item>
+        <item>https://www.youtube.com/watch?v=_gFB1fkNhXs</item>
+        <item>https://www.youtube.com/watch?v=ZT9LSsNXXe0</item>
+        <item>https://www.youtube.com/watch?v=xvPR2Tfw5k0</item>
+        <item>https://www.youtube.com/watch?v=6dzd6Ra6sb4</item>
+        <item>https://www.youtube.com/watch?v=BoD0TIO9nE4</item>
+        <item>https://www.youtube.com/watch?v=q8AKfYUtDuM</item>
+        <item> </item>
+        <item> </item>
+        <item>https://www.youtube.com/watch?v=C5J39YnnPsg</item>
+        <item>https://www.youtube.com/watch?v=Oqg_cO4s8ik</item>
+        <item>https://www.youtube.com/watch?v=80W0mCFDIP0</item>
+        <item>https://www.youtube.com/watch?v=Ot-dmfBaZrA</item>
+        <item>https://www.youtube.com/watch?v=YsJXZwE5pdY</item>
+        <item>https://www.youtube.com/watch?v=jxW3Lj8VjyE</item>
+        <item>https://www.youtube.com/watch?v=xOQON5_S7as</item>
+        <item>https://www.youtube.com/watch?v=yI7hTz0ft5k</item>
+        <item>https://www.youtube.com/watch?v=lNlK8DVhXXA</item>
+        <item> </item>
+        <item>https://www.youtube.com/watch?v=6CXgPVw_-0g</item>
+        <item>https://www.youtube.com/watch?v=GsB8ZI5vREA</item>
+    </string-array>
+
+    <string-array name="dish_image_urls">
+        <item>https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1525874812.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/020z181619788503.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/svprys1511176755.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1529444830.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1548772327.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1549542877.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/1550441882.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/md8w601593348504.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/60oc3k1699009846.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/qywups1511796761.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/2G07UOqU2e8.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/_gFB1fkNhXs.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/ZT9LSsNXXe0.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xvPR2Tfw5k0.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/6dzd6Ra6sb4.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/BoD0TIO9nE4.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/q8AKfYUtDuM.jpg</item>
+        <item> </item>
+        <item> </item>
+        <item>https://www.themealdb.com/images/media/meals/C5J39YnnPsg.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/Oqg_cO4s8ik.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/80W0mCFDIP0.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/Ot-dmfBaZrA.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/YsJXZwE5pdY.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/jxW3Lj8VjyE.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/xOQON5_S7as.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/yI7hTz0ft5k.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/lNlK8DVhXXA.jpg</item>
+        <item> </item>
+        <item>https://www.themealdb.com/images/media/meals/6CXgPVw_-0g.jpg</item>
+        <item>https://www.themealdb.com/images/media/meals/GsB8ZI5vREA.jpg</item>
+    </string-array>
+</resources>
