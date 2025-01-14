@@ -1,0 +1,884 @@
+{
+  "dishes": [
+    {
+      "id": "52777",
+      "name": "Средиземноморский салат с пастой",
+      "category": "Морепродукты",
+      "instructions": "Доведите воду до кипения, добавьте пасту и варите 10 минут. Нарежьте помидоры, оливки и базилик. Смешайте помидоры с базиликом и оливковым маслом. Добавьте пасту, оливки, моцареллу и тунец. Охладите и подавайте.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e52IL8zYmaE",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg"
+    },
+    {
+      "id": "52827",
+      "name": "Массаман карри с говядиной",
+      "category": "Говядина",
+      "instructions": "Обжарьте арахис, затем добавьте кокосовое молоко и пасту карри. Добавьте говядину, картофель, лук и специи. Тушите 2 часа в духовке. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mVxgZSCU9_g",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg"
+    },
+    {
+      "id": "52864",
+      "name": "Ротоло с грибами и каштанами",
+      "category": "Вегетарианское",
+      "instructions": "Замочите грибы, обжарьте лук, чеснок и каштаны. Приготовьте соус из вина и грибного бульона. Заверните начинку в листы лазаньи и запекайте 20 минут.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GNN7_ZSJ5YE",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg"
+    },
+    {
+      "id": "52865",
+      "name": "Матар Панир",
+      "category": "Вегетарианское",
+      "instructions": "Обжарьте панир, затем добавьте специи и помидоры. Тушите с горошком и подавайте с нааном или рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wlseYNqwLNs",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+    },
+    {
+      "id": "52876",
+      "name": "Пирог с фаршем",
+      "category": "Говядина",
+      "instructions": "Обжарьте фарш с луком, добавьте томатную пасту и грибы. Запекайте под слоем теста 20-25 минут.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QY47h-uqq5g",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg"
+    },
+    {
+      "id": "52880",
+      "name": "Шотландский пирог",
+      "category": "Баранина",
+      "instructions": "Обжарьте лук, чеснок и специи. Смешайте с фаршем и запекайте в тесте 1,5 часа.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1nArqhRyszw",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg"
+    },
+    {
+      "id": "52900",
+      "name": "Мадейра кекс",
+      "category": "Десерт",
+      "instructions": "Смешайте масло, сахар и яйца. Добавьте муку и цедру лимона. Выпекайте 30-40 минут.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-YDh4WEmK_E",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg"
+    },
+    {
+      "id": "52927",
+      "name": "Монреальское копченое мясо",
+      "category": "Говядина",
+      "instructions": "Замаринуйте говядину в специях, затем коптите 6 часов. Подавайте с горчицей.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=g5oCDoyxbBk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg"
+    },
+    {
+      "id": "52947",
+      "name": "Ма По Тофу",
+      "category": "Говядина",
+      "instructions": "Обжарьте фарш, добавьте тофу и соус. Тушите 6-8 минут. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IhwPQL9dFYc",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1525874812.jpg"
+    },
+    {
+      "id": "52968",
+      "name": "Мбузи Чома (Жареная коза)",
+      "category": "Козлятина",
+      "instructions": "Жарьте мясо 50 минут. Подавайте с рисом и салатом.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg"
+    },
+    {
+      "id": "52991",
+      "name": "Пирожки с фаршем",
+      "category": "Десерт",
+      "instructions": "Смешайте тесто, начините фаршем и выпекайте 20 минут. Подавайте с сахарной пудрой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PnXft7lQNJE",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qe8pf51576795532.jpg"
+    },
+    {
+      "id": "53006",
+      "name": "Мусака",
+      "category": "Говядина",
+      "instructions": "Обжарьте фарш, добавьте баклажаны и запекайте под соусом из йогурта.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8U_29i9Qp5U",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg"
+    },
+    {
+      "id": "53029",
+      "name": "Молухия",
+      "category": "Говядина",
+      "instructions": "Тушите мясо с луком, добавьте молухию и чеснок. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vWc5JzgAkIQ",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg"
+    },
+    {
+      "id": "53038",
+      "name": "Картофельное пюре с горчицей",
+      "category": "Гарнир",
+      "instructions": "Сварите картофель, добавьте молоко, масло и горчицу. Подавайте с зеленым луком.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_iKllHSC978",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg"
+    },
+    {
+      "id": "53047",
+      "name": "Марокканский суп из моркови",
+      "category": "Вегетарианское",
+      "instructions": "Запеките морковь с луком и специями. Измельчите в блендере и подавайте с лимонным соком.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7tDWOpnIhok",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg"
+    },
+    {
+      "id": "53048",
+      "name": "Ми Горенг Мамак",
+      "category": "Морепродукты",
+      "instructions": "Обжарьте арахис, креветки и специи. Добавьте лапшу и яйцо. Подавайте с лаймом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pOJEmDBgtSk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg"
+    },
+    {
+      "id": "53059",
+      "name": "Грибной суп с гречкой",
+      "category": "Гарнир",
+      "instructions": "Обжарьте лук, грибы и чеснок. Добавьте гречку и варите до готовности. Подавайте с зеленью.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M1ok7mG9-Qc",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg"
+    },
+    {
+      "id": "52768",
+      "name": "Яблочный тарт с франжипаном",
+      "category": "Десерт",
+      "instructions": "Разогрейте духовку до 200°C. Измельчите печенье и смешайте с маслом. Выложите в форму. Взбейте масло с сахаром, добавьте яйца, миндаль и экстракт. Нарежьте яблоки и выложите на основу. Запекайте 20-25 минут. Подавайте с мороженым.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rp8Slv4INLk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": "52893",
+      "name": "Яблочно-ежевичный крамбл",
+      "category": "Десерт",
+      "instructions": "Разогрейте духовку до 190°C. Смешайте муку, сахар и масло до крошки. Запеките крошку 15 минут. Приготовьте компот из яблок, ежевики и корицы. Соедините фрукты с крошкой и запекайте 5-10 минут. Подавайте с мороженым.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4vhcOwVBDO4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": "53049",
+      "name": "Апам Балик",
+      "category": "Десерт",
+      "instructions": "Смешайте молоко, масло и яйца. Добавьте муку, разрыхлитель и соль. Жарьте на сковороде до появления пузырьков. Добавьте начинку и сложите пополам. Подавайте теплым.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6R8ffRRJcrg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+    },
+    {
+      "id": "53050",
+      "name": "Аям Перчик",
+      "category": "Курица",
+      "instructions": "Смешайте ингредиенты для пасты и обжарьте 10 минут. Добавьте кокосовое молоко и специи. Замаринуйте курицу на ночь. Запекайте 35-45 минут при 220°C. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9ytR28QK6I8",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "id": "52767",
+      "name": "Тарт Бейквелл",
+      "category": "Десерт",
+      "instructions": "Смешайте муку и масло до крошки. Добавьте воду и замесите тесто. Раскатайте и выложите в форму. Запекайте 15 минут. Намажьте джемом, добавьте смесь из миндаля и масла. Посыпьте миндальными хлопьями. Запекайте 35 минут.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1ahpSTf_Pvk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg"
+    },
+    {
+      "id": "52792",
+      "name": "Пудинг из хлеба и масла",
+      "category": "Десерт",
+      "instructions": "Намажьте хлеб маслом и нарежьте на треугольники. Выложите слоями в форму, добавляя изюм и корицу. Залейте смесью из молока, сливок и яиц. Запекайте 30-40 минут. Подавайте теплым.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vz5W1-BmOE4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg"
+    },
+    {
+      "id": "52803",
+      "name": "Говядина Веллингтон",
+      "category": "Говядина",
+      "instructions": "Обжарьте грибы и смешайте с горчицей. Оберните говядину в ветчину и грибную смесь. Заверните в слоеное тесто. Запекайте 35 минут. Подавайте с соусом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FS8u1RBdf6I",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg"
+    },
+    {
+      "id": "52807",
+      "name": "Баинган Бхарта",
+      "category": "Вегетарианское",
+      "instructions": "Запеките баклажан на огне до мягкости. Очистите и разомните. Обжарьте лук, чеснок и помидоры. Добавьте баклажан и специи. Подавайте с лепешками.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-84Zz2EP4h4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
+    },
+    {
+      "id": "52812",
+      "name": "Тушеная говяжья грудинка",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину до золотистой корочки. Добавьте лук, морковь и специи. Залейте бульоном и тушите 3 часа. Подавайте с пюре.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gh48wM6bPWQ",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg"
+    },
+    {
+      "id": "52824",
+      "name": "Воскресный ростбиф",
+      "category": "Говядина",
+      "instructions": "Запеките говядину и картофель в духовке. Приготовьте йоркширские пудинги. Подавайте с подливкой и овощами.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2l3-dBdNehY",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg"
+    },
+    {
+      "id": "52826",
+      "name": "Тушеная говядина с чили",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину и лук. Добавьте специи, томаты и бульон. Тушите 2 часа. Добавьте фасоль и готовьте еще час. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=z4kSoJgsu6Y",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg"
+    },
+    {
+      "id": "52834",
+      "name": "Говядина по-строгановски",
+      "category": "Говядина",
+      "instructions": "Обжарьте лук и грибы. Добавьте говядину и муку. Залейте сметаной и бульоном. Тушите до готовности. Подавайте с пастой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PQHgQX1Ss74",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg"
+    },
+    {
+      "id": "52842",
+      "name": "Суп из брокколи и сыра Стилтон",
+      "category": "Закуска",
+      "instructions": "Обжарьте лук и сельдерей. Добавьте картофель и бульон. Варите 15 минут. Добавьте брокколи и сыр. Подавайте с гренками.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_HgVLpmNxTY",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg"
+    },
+    {
+      "id": "52848",
+      "name": "Сосиски с фасолью",
+      "category": "Разное",
+      "instructions": "Обжарьте сосиски. Добавьте томатный соус, фасоль и специи. Тушите 30 минут. Подавайте с хлебом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B0YX0yPX4Wo",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg"
+    },
+    {
+      "id": "52855",
+      "name": "Банановые блинчики",
+      "category": "Десерт",
+      "instructions": "Разомните банан, добавьте яйца и муку. Жарьте на сковороде. Подавайте с орехами и ягодами.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kSKtb2Sv-_U",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg"
+    },
+    {
+      "id": "52873",
+      "name": "Тушеная говядина с клецками",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину и овощи. Добавьте бульон и тушите 2 часа. Приготовьте клецки и запеките их с тушенкой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6NgheY-r5t0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg"
+    },
+    {
+      "id": "52765",
+      "name": "Куриная энчилада-запеканка",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу в соусе энчилада, разберите на волокна, выложите слоями с тортильями, сыром и запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EtVkwVKLc_M",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg"
+    },
+    {
+      "id": "52776",
+      "name": "Шоколадный гато",
+      "category": "Десерт",
+      "instructions": "Растопите шоколад, смешайте с маслом, сахаром, яйцами и мукой. Выпекайте до готовности.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dsJtgmAhFF4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg"
+    },
+    {
+      "id": "52779",
+      "name": "Тарт с творожным сыром",
+      "category": "Закуска",
+      "instructions": "Приготовьте основу, наполните смесью из творожного сыра, запеките и украсьте помидорами.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UhQPwO4uymo",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg"
+    },
+    {
+      "id": "52788",
+      "name": "Рождественский пудинг-флэпджек",
+      "category": "Десерт",
+      "instructions": "Растопите масло, сахар, сироп, смешайте с овсянкой и пудингом, запекайте до золотистого цвета.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OaqvGvEiwzU",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg"
+    },
+    {
+      "id": "52795",
+      "name": "Куриное ханди",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу со специями, йогуртом и сливками, тушите до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IO0issT0Rmc",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+    },
+    {
+      "id": "52796",
+      "name": "Курица Альфредо с овощами",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу, пасту и овощи, смешайте с соусом Альфредо и подавайте.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qCIbq8HywpQ",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg"
+    },
+    {
+      "id": "52818",
+      "name": "Куриные фахитас с макаронами и сыром",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу, лук, перец, смешайте с макаронами и сыром, запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bwTSmLTZKNg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"
+    },
+    {
+      "id": "52819",
+      "name": "Тако с рыбой в каджунском стиле",
+      "category": "Морепродукты",
+      "instructions": "Обваляйте рыбу в каджунских специях, обжарьте и подавайте в тортильях с начинкой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=N4EdUt0Ou48",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg"
+    },
+    {
+      "id": "52830",
+      "name": "Тако с курицей из мультиварки",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу в мультиварке, разберите на волокна, наполните тако и запеките с сыром.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oqL0mLDBzS4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg"
+    },
+    {
+      "id": "52831",
+      "name": "Курица карааге",
+      "category": "Курица",
+      "instructions": "Замаринуйте курицу, обваляйте в картофельном крахмале и обжарьте до хрустящей корочки.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XivddFddthc",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg"
+    },
+    {
+      "id": "52832",
+      "name": "Кок-о-вен",
+      "category": "Курица",
+      "instructions": "Обжарьте курицу, приготовьте с беконом, луком и красным вином, тушите до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_ise46LADBs",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg"
+    },
+    {
+      "id": "52839",
+      "name": "Лингвини с креветками и чили",
+      "category": "Паста",
+      "instructions": "Приготовьте креветки с чесноком, чили и помидорами, смешайте с лингвини.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SC17Mc70Db0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg"
+    },
+    {
+      "id": "52840",
+      "name": "Суп из моллюсков",
+      "category": "Закуска",
+      "instructions": "Приготовьте моллюски, бекон, лук, картофель и сливки в густой суп.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fEN_fm6kX6k",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg"
+    },
+    {
+      "id": "52841",
+      "name": "Крем-суп из помидоров",
+      "category": "Закуска",
+      "instructions": "Приготовьте лук, морковь, помидоры, взбейте в блендере, добавьте сливки.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lBhwjjUiFk4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg"
+    },
+    {
+      "id": "52846",
+      "name": "Курица и грибы в горшочке",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу, грибы и овощи в сливочном соусе, запеките с картофелем.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bXKWu4GojNI",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg"
+    },
+    {
+      "id": "52850",
+      "name": "Курица с кускусом",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу со специями, смешайте с кускусом, абрикосами и нутом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GZQGy9oscVk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg"
+    },
+    {
+      "id": "52853",
+      "name": "Шоколадный мусс с авокадо",
+      "category": "Десерт",
+      "instructions": "Смешайте авокадо, банан, какао и мед, охладите и подавайте.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wuZffe60q4M",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg"
+    },
+    {
+      "id": "52856",
+      "name": "Пирог с шоколадом и орехами пекан",
+      "category": "Десерт",
+      "instructions": "Приготовьте тесто, наполните орехами пекан, шоколадом и сиропом, запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fDpoT0jvg4Y",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg"
+    },
+    {
+      "id": "52860",
+      "name": "Шоколадные брауни с малиной",
+      "category": "Десерт",
+      "instructions": "Растопите шоколад, смешайте с яйцами, сахаром, мукой и малиной, запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Pi89PqsAaAg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg"
+    },
+    {
+      "id": "52870",
+      "name": "Фахитас с нутом",
+      "category": "Вегетарианское",
+      "instructions": "Запеките нут, подавайте с маринованным луком, авокадо и тортильями.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LGY3V7EGpT0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg"
+    },
+    {
+      "id": "52875",
+      "name": "Пирог с курицей, ветчиной и луком-пореем",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу, ветчину и лук-порей в сливочном соусе, запеките с тестом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xr-CpPE_lNk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg"
+    },
+    {
+      "id": "52879",
+      "name": "Курица парментье",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу с овощами, запеките с картофельным пюре до золотистого цвета.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tiG-xlmeyjg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg"
+    },
+    {
+      "id": "52897",
+      "name": "Морковный торт",
+      "category": "Десерт",
+      "instructions": "Смешайте морковь, орехи, муку, яйца и сахар, запеките и украсьте кремом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=asjZ7iTrGKA",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg"
+    },
+    {
+      "id": "52898",
+      "name": "Челси-булочки",
+      "category": "Десерт",
+      "instructions": "Приготовьте тесто, наполните сахаром и фруктами, сверните, нарежьте и запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i_zemP3yBKw",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg"
+    },
+    {
+      "id": "52905",
+      "name": "Шоколадный суфле",
+      "category": "Десерт",
+      "instructions": "Растопите шоколад, смешайте с яичными желтками, добавьте белки, запеките.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FWqfkUEWOTg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg"
+    },
+    {
+      "id": "52910",
+      "name": "Яблочные тарты из Шинона",
+      "category": "Десерт",
+      "instructions": "Выложите тесто яблоками, сахаром, запеките и покройте желе из красного вина.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5dAW9HQgtCk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg"
+    },
+    {
+      "id": "52920",
+      "name": "Курица Маре́нго",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу с грибами, помидорами и оливками, тушите до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=U33HYUr-0Fw",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg"
+    },
+    {
+      "id": "52923",
+      "name": "Канадские масляные тарты",
+      "category": "Десерт",
+      "instructions": "Наполните тесто маслом, сахаром, яйцами и изюмом, запеките до готовности.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WUpaOGghOdo",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg"
+    },
+    {
+      "id": "52934",
+      "name": "Курица баскез",
+      "category": "Курица",
+      "instructions": "Приготовьте курицу с перцем, чоризо, рисом и помидорами, запеките до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=emfm6TwsVhg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg"
+    },
+    {
+      "id": "52939",
+      "name": "Каллалу по-ямайски",
+      "category": "Разное",
+      "instructions": "Приготовьте капусту каллалу с беконом и овощами, подавайте с плантейном.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bCr3GasJWwE",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg"
+    },
+    {
+      "id": "52956",
+      "name": "Куриный конджи",
+      "category": "Курица",
+      "instructions": "Приготовьте рис с курицей, имбирем и бульоном, варите до густой консистенции.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kqEfk801E94",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529446352.jpg"
+    },
+    {
+      "id": "52966",
+      "name": "Шоколадно-карамельные хрустяшки",
+      "category": "Десерт",
+      "instructions": "Растопите шоколадные батончики, смешайте с рисовыми хлопьями, залейте шоколадом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qsk_At_gjv0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1550442508.jpg"
+    },
+    {
+      "id": "52969",
+      "name": "Чакчука",
+      "category": "Разное",
+      "instructions": "Приготовьте лук, перец, помидоры, разбейте яйца сверху, тушите до готовности.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EHKNu93MSx4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg"
+    },
+    {
+      "id": "52976",
+      "name": "Печенье с кешью",
+      "category": "Десерт",
+      "instructions": "Смешайте кешью, сахар, яичные желтки, сформируйте шарики, запеките до золотистого цвета.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IqXEZUk4hWI",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg"
+    },
+    {
+      "id": "52977",
+      "name": "Чорба",
+      "category": "Гарнир",
+      "instructions": "Приготовьте чечевицу, лук, морковь и специи, взбейте в густой суп.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VVnZd8A84z4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
+    },
+    {
+      "id": "52988",
+      "name": "Классический рождественский пудинг",
+      "category": "Десерт",
+      "instructions": "Смешайте фрукты, орехи, муку, яйца и бренди, варите на пару несколько часов.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Pb_lJxL1vtk",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg"
+    },
+    {
+      "id": "52989",
+      "name": "Рождественский пудинг-трифл",
+      "category": "Десерт",
+      "instructions": "Слои рождественского пудинга, заварного крема, сливок и фруктов, охладите перед подачей.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jRfyNQs5qhU",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg"
+    },
+    {
+      "id": "52990",
+      "name": "Рождественский торт",
+      "category": "Десерт",
+      "instructions": "Смешайте фрукты, орехи, муку, яйца и специи, запеките и украсьте.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=34yeL8TstO0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg"
+    },
+    {
+      "id": "52998",
+      "name": "Солонина с капустой",
+      "category": "Говядина",
+      "instructions": "Варите солонину с картофелем, морковью и капустой, подавайте горячим.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg"
+    },
+    {
+      "id": "52999",
+      "name": "Хрустящие сосиски с зеленью",
+      "category": "Свинина",
+      "instructions": "Приготовьте сосиски, запеките капусту и капусту кале, подавайте вместе.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg"
+    },
+    {
+      "id": "53011",
+      "name": "Греческий салат с курицей и киноа",
+      "category": "Курица",
+      "instructions": "Приготовьте киноа, обжарьте курицу, смешайте с овощами, фетой и лимонной заправкой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=akcrkXYr61M",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg"
+    },
+    {
+      "id": "53016",
+      "name": "Сэндвич Чик-фил-А",
+      "category": "Курица",
+      "instructions": "Замаринуйте курицу, обваляйте в муке, обжарьте и подавайте в булочках с солеными огурцами.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1WDesu7bUDM",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"
+    },
+    {
+      "id": "53037",
+      "name": "Свинина, тушеная с сидром",
+      "category": "Свинина",
+      "instructions": "Приготовьте свинину с сидром, беконом и овощами, тушите до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ftn_4mc-65o",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg"
+    },
+    {
+      "id": "53055",
+      "name": "Чевапи",
+      "category": "Говядина",
+      "instructions": "Смешайте говядину, свинину, специи, сформируйте колбаски, обжарьте на гриле.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_MpSxSgS7f8",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg"
+    },
+    {
+      "id": "53056",
+      "name": "Хорватское рагу из баранины",
+      "category": "Говядина",
+      "instructions": "Приготовьте баранину с овощами, травами и вином, запеките до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K0ipnz4fwJI",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg"
+    },
+    {
+      "id": "53058",
+      "name": "Хорватский бобовый суп",
+      "category": "Говядина",
+      "instructions": "Приготовьте бобы с овощами, чоризо и специями, тушите до густой консистенции.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mrjnQal3S1A",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg"
+    },
+    {
+      "id": "53063",
+      "name": "Чивито уругвайский",
+      "category": "Говядина",
+      "instructions": "Выложите говядину, ветчину, сыр, яйца и овощи на хлеб, подавайте горячим.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0PXbbL1QdaA",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg"
+    },
+    {
+      "id": "53072",
+      "name": "Хрустящие баклажаны",
+      "category": "Вегетарианское",
+      "instructions": "Обваляйте баклажаны в панировке, обжарьте до хрустящей корочки, подавайте горячими.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4mINk5d2hto",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg"
+    },
+    {
+      "id": "53077",
+      "name": "Щи (капустный суп)",
+      "category": "Вегетарианское",
+      "instructions": "Приготовьте капусту, картофель и овощи в бульоне, тушите до мягкости.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lTjlbqGc_Y8",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/60oc3k1699009846.jpg"
+    },
+    {
+      "id": "52874",
+      "name": "Пирог с говядиной и горчицей",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину и лук. Добавьте горчицу и бульон. Заверните в тесто и запекайте 30 минут. Подавайте с зеленой фасолью.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nMyBC9staMU",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg"
+    },
+    {
+      "id": "52878",
+      "name": "Пирог с говядиной и устрицами",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину и лук. Добавьте устрицы и специи. Заверните в тесто и запекайте 30 минут. Подавайте с горчицей.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ONX74yP6JnI",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg"
+    },
+    {
+      "id": "52891",
+      "name": "Десерт из ежевики",
+      "category": "Десерт",
+      "instructions": "Приготовьте печенье из орехов и муки. Смешайте ежевику с сахаром. Взбейте сливки и йогурт. Соедините все слои. Подавайте охлажденным.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kniRGjDLFrQ",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg"
+    },
+    {
+      "id": "52894",
+      "name": "Баттенбергский торт",
+      "category": "Десерт",
+      "instructions": "Приготовьте два вида теста: миндальное и розовое. Соберите торт, чередуя слои. Покройте марципаном. Подавайте с чаем.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aB41Q7kDZQ0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg"
+    },
+    {
+      "id": "52904",
+      "name": "Говядина по-бургундски",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину и овощи. Добавьте вино и бульон. Тушите 3 часа. Подавайте с пюре из сельдерея.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SQnr4Z-7rok",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg"
+    },
+    {
+      "id": "52913",
+      "name": "Бри в тесте",
+      "category": "Гарнир",
+      "instructions": "Приготовьте тесто из муки и масла. Заверните в него бри и запекайте 22 минуты. Подавайте теплым.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FzNPPD8lbWg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg"
+    },
+    {
+      "id": "52914",
+      "name": "Картофель по-буланжерски",
+      "category": "Гарнир",
+      "instructions": "Обжарьте лук и тимьян. Выложите слоями картофель и лук. Залейте бульоном и запекайте 50 минут. Подавайте горячим.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gcXPruv1Mjg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg"
+    },
+    {
+      "id": "52928",
+      "name": "Бобровые хвосты",
+      "category": "Десерт",
+      "instructions": "Приготовьте тесто из муки, молока и масла. Обжарьте в масле до золотистой корочки. Посыпьте сахаром и корицей. Подавайте теплыми.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2G07UOqU2e8",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg"
+    },
+    {
+      "id": "52940",
+      "name": "Тушеная курица по-ямайски",
+      "category": "Курица",
+      "instructions": "Замаринуйте курицу в специях. Обжарьте до золотистой корочки. Тушите с овощами и кокосовым молоком. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_gFB1fkNhXs",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg"
+    },
+    {
+      "id": "52952",
+      "name": "Говядина Ло Мейн",
+      "category": "Говядина",
+      "instructions": "Замаринуйте говядину в соевом соусе. Обжарьте с овощами и лапшой. Добавьте соус и подавайте горячим.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZT9LSsNXXe0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+    },
+    {
+      "id": "52959",
+      "name": "Запеченный лосось с фенхелем",
+      "category": "Морепродукты",
+      "instructions": "Запеките фенхель и помидоры. Добавьте лосось и запекайте 15 минут. Подавайте с зеленью.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xvPR2Tfw5k0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1548772327.jpg"
+    },
+    {
+      "id": "52961",
+      "name": "Будиньо ди Рикотта",
+      "category": "Десерт",
+      "instructions": "Смешайте рикотту, яйца и муку. Добавьте сахар и корицу. Запекайте 40 минут. Подавайте с сахарной пудрой.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6dzd6Ra6sb4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1549542877.jpg"
+    },
+    {
+      "id": "52965",
+      "name": "Завтрак из картофеля",
+      "category": "Завтрак",
+      "instructions": "Обжарьте картофель с беконом и луком. Добавьте яйца и подавайте с кленовым сиропом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BoD0TIO9nE4",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1550441882.jpg"
+    },
+    {
+      "id": "52979",
+      "name": "Биттерболлен",
+      "category": "Говядина",
+      "instructions": "Приготовьте густой соус из говядины и специй. Охладите, сформируйте шарики. Обваляйте в муке, яйце и панировке. Обжарьте до золотистой корочки. Подавайте с горчицей.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=q8AKfYUtDuM",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg"
+    },
+    {
+      "id": "52995",
+      "name": "Слоуппи Джо с BBQ",
+      "category": "Свинина",
+      "instructions": "Обжарьте свинину с луком и специями. Добавьте BBQ соус и тушите 10 минут. Подавайте в булочках с картофелем.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg"
+    },
+    {
+      "id": "52997",
+      "name": "Бо Бань Ми с говядиной",
+      "category": "Говядина",
+      "instructions": "Приготовьте рис. Обжарьте говядину с овощами. Подавайте с маринованными овощами и соусом.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg"
+    },
+    {
+      "id": "53013",
+      "name": "Биг Мак",
+      "category": "Говядина",
+      "instructions": "Приготовьте котлеты из говядины. Соберите бургер с сыром, салатом и соусом. Подавайте с картофелем фри.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C5J39YnnPsg",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg"
+    },
+    {
+      "id": "53018",
+      "name": "Бигос",
+      "category": "Свинина",
+      "instructions": "Обжарьте свинину и колбасу. Добавьте капусту и специи. Тушите 3 часа. Подавайте с хлебом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Oqg_cO4s8ik",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg"
+    },
+    {
+      "id": "53036",
+      "name": "Завтрак Бокси",
+      "category": "Свинина",
+      "instructions": "Приготовьте картофельные оладьи. Обжарьте бекон и яйца. Подавайте с помидорами.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=80W0mCFDIP0",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg"
+    },
+    {
+      "id": "53053",
+      "name": "Говядина Ренданг",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину с специями. Добавьте кокосовое молоко и тушите 2 часа. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ot-dmfBaZrA",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg"
+    },
+    {
+      "id": "53060",
+      "name": "Бурек",
+      "category": "Гарнир",
+      "instructions": "Обжарьте фарш с луком. Выложите слоями с тестом. Запекайте 30 минут. Подавайте горячим.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YsJXZwE5pdY",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg"
+    },
+    {
+      "id": "53068",
+      "name": "Говядина Мечадо",
+      "category": "Говядина",
+      "instructions": "Замаринуйте говядину в соевом соусе. Обжарьте с овощами. Тушите с томатным соусом. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jxW3Lj8VjyE",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg"
+    },
+    {
+      "id": "53069",
+      "name": "Бистек",
+      "category": "Говядина",
+      "instructions": "Замаринуйте говядину в соевом соусе. Обжарьте с луком. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xOQON5_S7as",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg"
+    },
+    {
+      "id": "53070",
+      "name": "Говядина Кальдерета",
+      "category": "Говядина",
+      "instructions": "Обжарьте говядину с овощами. Добавьте томатный соус и тушите до готовности. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yI7hTz0ft5k",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg"
+    },
+    {
+      "id": "53071",
+      "name": "Говядина Асадо",
+      "category": "Говядина",
+      "instructions": "Замаринуйте говядину в специях. Обжарьте с овощами. Тушите с томатным соусом. Подавайте с рисом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lNlK8DVhXXA",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg"
+    },
+    {
+      "id": "53076",
+      "name": "Омлет с хлебом",
+      "category": "Завтрак",
+      "instructions": "Приготовьте омлет с хлебом. Подавайте горячим.",
+      "youtubeUrl": "",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg"
+    },
+    {
+      "id": "53078",
+      "name": "Борщ",
+      "category": "Вегетарианское",
+      "instructions": "Нарежьте свеклу и картофель. Варите с овощами до готовности. Добавьте фасоль. Подавайте с укропом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6CXgPVw_-0g",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/zadvgb1699012544.jpg"
+    },
+    {
+      "id": "53080",
+      "name": "Блины",
+      "category": "Гарнир",
+      "instructions": "Приготовьте тесто из муки и молока. Жарьте на сковороде. Подавайте с маслом.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GsB8ZI5vREA",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/0206h11699013358.jpg"
+    }
+  ]
+}
